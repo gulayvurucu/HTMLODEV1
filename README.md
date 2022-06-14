@@ -1,4 +1,4 @@
-# HTMLODEV1
+
 <!-- AD-SOYAD BİLGİSİ YAZINIZ-->
 <h1> EMİNE GÜLAY VURUCU</h1>
 
